@@ -1,0 +1,354 @@
+Command,Intent
+open my desktop folder,open_folder
+duplicate my lecture_notes.pdf,copy_file
+trash the demo.txt file,delete_file
+move the file screenshot.png to the Images folder,move_file
+copy image.png to the Pictures folder,copy_file
+save a copy of notes.txt to usb,copy_file
+delete the file budget.xlsx,delete_file
+remove the file budget.xlsx,delete_file
+go to my videos folder,open_folder
+scan downloads for excel files,search_file
+scan folder for recently created files,search_file
+close lecture recording,close_file
+open my desktop folder,open_folder
+play the movie trailer.mp4,open_media
+save a copy of invoice.doc to drive,copy_file
+Erase the image,delete_file
+show me a video,play_movie
+search everything for budget.xlsx,search_file
+Play a video for me,play_movie
+clone project_report.docx to another directory,copy_file
+access my downloads directory,open_folder
+trash the demo.txt file,delete_file
+close everything and return to home screen,close_file
+search my computer for research.pdf,search_file
+show me a video,play_movie
+access presentation.pptx from desktop,open_file
+surprise me with a song,play_music
+please open my resume.pdf,open_file
+find all files containing 'project' in the name,search_file
+look for presentation.pptx,search_file
+permanently delete old_resume.docx,delete_forever
+move a file,move_file
+exit the word document,close_file
+please open my resume.pdf,open_file
+make a copy of taxes.xlsx,copy_file
+access my downloads directory,open_folder
+erase photo1.jpg,delete_file
+relocate the audio.mp3 to Music,move_file
+load the spreadsheet Q4_data.xlsx,open_file
+delete summary.docx from documents,delete_file
+duplicate image.png,copy_file
+save a copy of notes.txt to usb,copy_file
+start pop music mix,play_music
+move a file,move_file
+access the file named project_plan.pdf,open_file
+please close the spreadsheet,close_file
+permanently delete old_resume.docx,delete_forever
+permanently delete old_resume.docx,delete_forever
+shut down the open spreadsheet,close_file
+open VLC and play music,open_media
+delete everything in trash,delete_forever
+send demo.txt to drive D,move_file
+start the file named ideas.txt,open_file
+duplicate image.png,copy_file
+look up any images in the Pictures folder,search_file
+Put on a film,play_movie
+delete everything in trash,delete_forever
+trash the demo.txt file,delete_file
+play a movie,play_movie
+find all files named project,search_file
+shut down the video,close_file
+play media,open_media
+Remove that folder,delete_file
+I want to watch something,play_movie
+go to my videos folder,open_folder
+scan folder for recently created files,search_file
+relocate document to documents,move_file
+start the video named lecture.mp4,open_media
+relocate document to documents,move_file
+Play something random,play_music
+permanently delete old_resume.docx,delete_forever
+play media,open_media
+delete everything in trash,delete_forever
+search everything for budget.xlsx,search_file
+start the mp3 called song.mp3,open_file
+scan downloads for excel files,search_file
+move report.doc to shared folder,move_file
+load the spreadsheet Q4_data.xlsx,open_file
+show me a video,play_movie
+copy assignment.docx to backup,copy_file
+launch the movie inception.avi,play_movie
+permanently delete old_resume.docx,delete_forever
+search my pc for pdfs,search_file
+Surprise me with a song,play_music
+I want to hear music,play_music
+Play a video for me,play_movie
+delete a file,delete_file
+exit the word document,close_file
+access my downloads directory,open_folder
+permanently delete old_resume.docx,delete_forever
+close code.py in the editor,close_file
+play classical album,play_music
+access the file named project_plan.pdf,open_file
+open the music folder,open_folder
+bring up the pdf guide,open_file
+Play a video for me,play_movie
+play a movie,play_movie
+play the movie file,open_media
+open videos from my PC,open_folder
+delete everything in trash,delete_forever
+quit the document editor,close_file
+save a copy of invoice.doc to drive,copy_file
+Play a video for me,play_movie
+show me a video,play_movie
+close everything and return to home screen,close_file
+launch the presentation file,open_file
+move screenshot.png to Pictures,move_file
+look for presentation.pptx,search_file
+open my desktop folder,open_folder
+open a file,open_file
+surprise me with a song,play_music
+Replicate this folder,copy_file
+start pop music mix,play_music
+open the file named report.docx,open_file
+navigate to the archives folder,open_folder
+delete everything in trash,delete_forever
+stream the latest movie file,open_media
+play classical album,play_music
+open videos from my PC,open_folder
+play the movie trailer.mp4,open_media
+launch the song.mp3 file,open_media
+delete the report file,delete_file
+relocate the audio.mp3 to Music,move_file
+play a movie,play_movie
+make another version of thesis.docx,copy_file
+transfer my resume to jobs folder,move_file
+load the spreadsheet Q4_data.xlsx,open_file
+shift my document from Downloads to Documents,move_file
+load the spreadsheet Q4_data.xlsx,open_file
+open my desktop folder,open_folder
+go to the pictures folder,open_folder
+Show me the contents of a file,open_file
+play some music from downloads,open_media
+permanently delete old_resume.docx,delete_forever
+find files that contain the word 'budget',search_file
+start the video named lecture.mp4,open_media
+please close the spreadsheet,close_file
+open music folder and play audio,open_media
+start the video named lecture.mp4,open_media
+open the downloads folder,open_folder
+delete everything in trash,delete_forever
+search my pc for pdfs,search_file
+find files that contain the word 'budget',search_file
+open the pictures directory,open_folder
+copy final_paper.pdf into Documents,copy_file
+move report.doc to shared folder,move_file
+play some music,play_music
+copy assignment.docx to backup,copy_file
+permanently delete old_resume.docx,delete_forever
+scan folder for recently created files,search_file
+open a file,open_file
+permanently delete temp.txt,delete_file
+move screenshot.png to Pictures,move_file
+duplicate image.png,copy_file
+Search for a file,search_file
+surprise me with a song,play_music
+Surprise me with a song,play_music
+make a copy of taxes.xlsx,copy_file
+send demo.txt to drive D,move_file
+quit the document editor,close_file
+look for presentation files,search_file
+stream the film matrix.mp4,play_movie
+close everything and return to home screen,close_file
+Put on a film,play_movie
+play the movie interstellar.mp4,play_movie
+start pop music mix,play_music
+play the movie trailer.mp4,open_media
+access my downloads directory,open_folder
+launch the song.mp3 file,open_media
+launch the movie inception.avi,play_movie
+transfer video.mp4 to videos folder,move_file
+erase photo.jpg,delete_file
+launch thesis_final.doc,open_file
+open my desktop folder,open_folder
+surprise me with a song,play_music
+copy assignment.docx to backup,copy_file
+access my downloads directory,open_folder
+Give me a tune,play_music
+copy assignment.docx to backup,copy_file
+permanently delete old_resume.docx,delete_forever
+delete everything in trash,delete_forever
+access my music directory,open_folder
+Play a movie,play_movie
+stream the latest movie file,open_media
+close lecture recording,close_file
+play jazz music,play_music
+relocate document to documents,move_file
+show me the documents folder,open_folder
+load the spreadsheet Q4_data.xlsx,open_file
+duplicate image.png,copy_file
+please close the spreadsheet,close_file
+shut this file down,close_file
+navigate to the archives folder,open_folder
+duplicate my lecture_notes.pdf,copy_file
+start pop music mix,play_music
+quit the document editor,close_file
+Show me a video,play_movie
+save a copy of invoice.doc to drive,copy_file
+Locate the presentation file,search_file
+play some music,play_music
+open up my budget.xlsx,open_file
+search for mp3 files in Music folder,search_file
+play lord_of_the_rings.mp4,play_movie
+backup screenshot.png,copy_file
+go to the pictures folder,open_folder
+I want to hear music,play_music
+relocate document to documents,move_file
+open film from video folder,open_media
+delete everything in trash,delete_forever
+delete summary.docx from documents,delete_file
+permanently delete old_resume.docx,delete_forever
+find all files named project,search_file
+play classical album,play_music
+look for presentation.pptx,search_file
+play media,open_media
+scan downloads for excel files,search_file
+reorganize files into sorted folders,move_file
+open sample_code.py,open_file
+get rid of the recent_downloads file,delete_file
+open a file,open_file
+play media,open_media
+move the compressed file to archive,move_file
+reorganize files into sorted folders,move_file
+stop editing and close project_plan.docx,close_file
+transfer my resume to jobs folder,move_file
+open the downloads folder,open_folder
+erase test_document.doc,delete_file
+find video files in Movies directory,search_file
+Show me a video,play_movie
+launch the song.mp3 file,open_media
+close lecture recording,close_file
+copy the file assignment.docx to backup folder,copy_file
+delete a file,delete_file
+search everything for budget.xlsx,search_file
+shuffle my rock playlist,play_music
+exit the word document,close_file
+move screenshot.png to Pictures,move_file
+open up my budget.xlsx,open_file
+delete everything in trash,delete_forever
+relocate document to documents,move_file
+permanently delete old_resume.docx,delete_forever
+open sample_code.py,open_file
+show me the summary.docx,open_file
+I want to watch something,play_movie
+play lord_of_the_rings.mp4,play_movie
+launch the movie inception.avi,play_movie
+make another version of thesis.docx,copy_file
+open the pictures directory,open_folder
+close everything and return to home screen,close_file
+play the movie interstellar.mp4,play_movie
+please close the notes,close_file
+please close the spreadsheet,close_file
+make a copy of taxes.xlsx,copy_file
+start the video clip named trailer.mp4,open_media
+Copy this file to another folder,copy_file
+delete summary.docx from documents,delete_file
+please close the spreadsheet,close_file
+remove lecture_notes.pdf,delete_file
+delete the file budget.xlsx,delete_file
+delete lecture_notes.pdf,delete_file
+close the video player file,close_file
+delete everything in trash,delete_forever
+please open my resume.pdf,open_file
+permanently delete old_resume.docx,delete_forever
+open the pictures directory,open_folder
+surprise me with a song,play_music
+play media,open_media
+play lord_of_the_rings.mp4,play_movie
+transfer my resume to jobs folder,move_file
+delete the file budget.xlsx,delete_file
+relocate document to documents,move_file
+relocate this file to storage,move_file
+show me the summary.docx,open_file
+look up any images in the Pictures folder,search_file
+open a file,open_file
+reorganize files into sorted folders,move_file
+delete lecture_notes.pdf,delete_file
+permanently delete old_resume.docx,delete_forever
+play jazz music,play_music
+close lecture recording,close_file
+Play something random,play_music
+play the movie interstellar.mp4,play_movie
+go to my videos folder,open_folder
+close the file report.docx,close_file
+close the file report.docx,close_file
+permanently delete old_resume.docx,delete_forever
+open my desktop folder,open_folder
+delete everything in trash,delete_forever
+delete everything in trash,delete_forever
+Surprise me with a song,play_music
+shut this file down,close_file
+play something from downloads,open_media
+erase photo.jpg,delete_file
+shut down the open spreadsheet,close_file
+play something from downloads,open_media
+give me a tune,play_music
+clone resume.doc to another folder,copy_file
+delete the file budget.xlsx,delete_file
+Access the document,open_file
+permanently delete temp.txt,delete_file
+scan for documents created last week,search_file
+close summary.pdf,close_file
+erase photo.jpg,delete_file
+I want to hear music,play_music
+look for presentation files,search_file
+remove lecture_notes.pdf,delete_file
+give me a tune,play_music
+go to my videos folder,open_folder
+open sample_code.py,open_file
+find video files in Movies directory,search_file
+give me a tune,play_music
+launch media player with video1.mp4,open_media
+delete everything in trash,delete_forever
+relocate this file to storage,move_file
+play the movie interstellar.mp4,play_movie
+delete everything in trash,delete_forever
+navigate to documents folder,open_folder
+delete the report file,delete_file
+trash the demo.txt file,delete_file
+play media,open_media
+start the video named lecture.mp4,open_media
+delete everything in trash,delete_forever
+play media,open_media
+play the movie trailer.mp4,open_media
+remove music.mp3 from my downloads,delete_file
+trash the file demo.txt,delete_file
+show me the documents folder,open_folder
+open my desktop folder,open_folder
+load the spreadsheet Q4_data.xlsx,open_file
+I want to watch something,play_movie
+launch media player with video1.mp4,open_media
+I want to hear music,play_music
+open music folder and play audio,open_media
+play the movie interstellar.mp4,play_movie
+I want to hear music,play_music
+play a movie,play_movie
+move screenshot.png to Pictures,move_file
+Transfer the video to another location,move_file
+move notes.txt to a different directory,move_file
+backup screenshot.png,copy_file
+search everything for budget.xlsx,search_file
+permanently delete old_resume.docx,delete_forever
+please close the spreadsheet,close_file
+clone resume.doc to another folder,copy_file
+permanently delete old_resume.docx,delete_forever
+access presentation.pptx from desktop,open_file
+open VLC and play music,open_media
+look for presentation.pptx,search_file
+backup screenshot.png,copy_file
+Play some music,play_music
+delete everything in trash,delete_forever
+copy final_paper.pdf into Documents,copy_file
+

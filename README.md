@@ -53,7 +53,26 @@ python3 -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
-
 whisper download base
 
-then run app using "python virtual_assistant.py"
+then run app using "python virtual_asistant.py"
+
+# Testing the AI textually use:
+1. Open folder Documents
+2. i'm bored play a movie
+3. play music
+4. open folder Desktop
+5. open music folder
+6. open <filename.extension> (write the file name and it's extention)
+7. delete <filename.extension> (write the file name and it's extention)(send to recycle bin)
+8. delete permanently <filename.extension> (write the file name and it's extention)(permanent delete)
+   
+#Testing AI vocally
+1. "Open folder Downloads"
+2. "Play my rock playlist dot mp3"
+3. "Find the final report underscore draft dot docx"
+4. "Delete  <filename> dot <extension>"
+
+
+10. Delete temporary_files.zip permanently
+ual_assistant.py"
